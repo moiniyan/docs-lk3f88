@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-h4t1yl.assetshst.online/sitemap.xml
